@@ -5,7 +5,8 @@ export default function Home() {
   return (
 
     <main>
-      <Button variant="destructive" className="px-16">Click me</Button>
+     
+      
     </main>
 
   )
